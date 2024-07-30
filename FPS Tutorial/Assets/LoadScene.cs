@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//A cheeky little comment
 public class LoadScene : MonoBehaviour
 {
     //This is being used just for the "OnTriggerEnter".
